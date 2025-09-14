@@ -28,7 +28,7 @@ Features
 --Dataset: TMDB Movies Dataset
 
 Project Structure
-movie-recommender/
+movie_recommender/
 │── app.py              # Flask API
 │── recommender.py      # Recommendation logic (TF-IDF + Cosine Similarity)
 │── requirements.txt    # Dependencies
@@ -69,6 +69,6 @@ Example output:
 
 --Add a simple Streamlit web UI for user-friendly interaction.
 
-Deploy using Docker + AWS/GCP for cloud hosting.
+--Deploy using Docker + AWS/GCP for cloud hosting.
 
-Add a simple Streamlit web UI for user-friendly interaction.
+--Add a simple Streamlit web UI for user-friendly interaction.
